@@ -28,7 +28,7 @@
   },
   "devDependencies": {
     "@types/bcrypt": "^5.0.0",
-    "@types/jest": "^27.0.x",
+    "@types/jest": "^27.4.x",
     "@types/prompt": "^1.1.1",
     "copyfiles": "^2.4.1",
     "easygraphql-tester": "^6.0.1",
